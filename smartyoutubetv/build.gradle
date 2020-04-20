@@ -1,4 +1,4 @@
-apply from: '../../SharedUtils/constants.gradle'
+apply from: '../SharedUtils/constants.gradle'
 buildscript {
     repositories {
         maven { url 'https://maven.fabric.io/public' }

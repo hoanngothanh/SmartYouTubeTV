@@ -10,7 +10,9 @@ import android.os.Build.VERSION;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
+
 import androidx.annotation.NonNull;
+
 import com.liskovsoft.sharedutils.helpers.AppInfoHelpers;
 import com.liskovsoft.sharedutils.helpers.Helpers;
 import com.liskovsoft.sharedutils.helpers.PermissionHelpers;
